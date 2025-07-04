@@ -2,7 +2,7 @@
 
 Welcome to the official portfolio of **Noch Kakada**, an embedded systems engineer and PCB designer specializing in **automotive and industrial electronics**.
 
-![MechEmbed Banner](https://your-logo-or-banner-link.com)
+![MechEmbed Banner]([https://your-logo-or-banner-link.com](https://avatars.githubusercontent.com/u/219247273?v=4))
 
 ---
 
